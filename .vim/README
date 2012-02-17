@@ -1,0 +1,23 @@
+Repository for my common VIM-IDE.
+
+List of plugins:
+
+.vim/colors/wombat.vim
+.vim/plugin/NERD_commenter.vim
+.vim/plugin/NERD_tree.vim
+.vim/plugin/SyntaxFolds.vim
+.vim/plugin/bash-support.vim
+.vim/plugin/c.vim
+.vim/plugin/cctree.vim
+.vim/plugin/filebrowser.vim
+.vim/plugin/imaps.vim
+.vim/plugin/libList.vim
+.vim/plugin/minibufexpl.vim
+.vim/plugin/perl-support.vim
+.vim/plugin/remoteOpen.vim
+.vim/plugin/taglist.vim
+.vim/plugin/wombat.vim
+.vim/nerdtree_plugin/exec_menuitem.vim
+.vim/nerdtree_plugin/fs_menu.vim
+
+
