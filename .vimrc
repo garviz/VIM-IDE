@@ -24,6 +24,7 @@ set smartcase
 "below the cursor.
 set scrolloff=7
 set wildmenu "Turn on WiLd menu
+set wildmode=longest:full
 set hid "Change buffer - without saving
 set cmdheight=2 "The commandbar height
 " Set backspace config
